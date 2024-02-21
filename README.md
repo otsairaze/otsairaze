@@ -101,4 +101,4 @@
 </div>
 
 _____________________
-<a href="https://github.com/otsairaze" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Meow-Double?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
+<a href="https://github.com/otsairaze" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/otsairaze?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
