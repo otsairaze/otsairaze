@@ -23,15 +23,7 @@
   <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/Redux.svg" alt="redux">
   <a/>
-    <a href="!#">
-    <img width="36" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" alt="jest">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jquery">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Gulp.js.svg" alt="gulp">
-  <a/>
+    
   <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/Webpack.svg" alt="webpack">
   <a/>
@@ -56,10 +48,7 @@
   <a href="!#">
     <img width="36" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="form">
   <a/>
-    <a href="!#">
-    <img width="36" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="query">
-  <a/>
-
+ 
 </div>
 
 ### 🎨 UI Библиотеки:
