@@ -5,7 +5,7 @@
 ### 💻Технологии:
 
 <div>
- ![javascript](https://img.shields.io/badge/javascript--ghjhk-000?style=for-the-badge&logo=javascript&logoColor=fff)
+
   <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="css">
   <a/>
