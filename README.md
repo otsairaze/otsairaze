@@ -1,91 +1,85 @@
-### Привет мир! 👋
-
----
-
-### 💻Технологии:
 
 <div>
 
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="css">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="js">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="ts">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Redux.svg" alt="redux">
-  <a/>
-    
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Webpack.svg" alt="webpack">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Sass.svg" alt="sass">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="bootstrap">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="git">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://iconape.com/wp-content/png_logo_vector/react-router.png" alt="router">
-  <a/>
-  <a href="!#">
-    <img width="36" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="form">
-  <a/>
- 
+<img height='500' width='100%' src="https://github.com/otsairaze/otsairaze/blob/main/assets/3Rbt.gif"/>
+
 </div>
 
-### 🎨 UI Библиотеки:
+
+<br>
+<br>
+<br>
+<br>
+
+
+
 
 <div>
-    <a href="!#">
-      <img width="36" src="https://github.com/chakra-ui/chakra-ui/blob/main/media/logomark-colored.svg" alt="ChakraUI">
-    <a/>
-    <a href="!#">
-      <img width="36" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" alt="materialUI">
-    <a/>
-      <a href="!#">
-      <img width="36" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design">
-    <a/>
+
+<img align='left' height='500' width='500' src="https://github.com/otsairaze/otsairaze/blob/main/assets/fxa6.gif"/>
+
 </div>
 
-### 📃 Плагины для кода:
 
-<div>
-    <a href="!#">
-      <img width="36" src="https://prettier.io/icon.png" alt="Prettier">
-    <a/>
-    <a href="!#">
-      <img width="36" src="https://cdn.iconscout.com/icon/free/png-256/free-eslint-3521412-2944856.png" alt="Eslint">
-    <a/>
-      <a href="!#">
-      <img width="36" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stylelint_icon_130141.png" alt="Stylelint">
-    <a/>
-    <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Babel.svg" alt="babel">
-  <a/>
+<div align='center' height='800'>
+  
+### 𒌐 Technologies:
+
+
+
+![HTML](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=fff)
+![css3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=fff)
+![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=fff)
+![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=fff)
+![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=fff)
+![redux](https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux&logoColor=fff)
+![webpack](https://img.shields.io/badge/webpack-000?style=for-the-badge&logo=webpack&logoColor=fff)
+![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=fff)
+![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=fff)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=fff)
+![reactrouter](https://img.shields.io/badge/reactrouter-000?style=for-the-badge&logo=reactrouter&logoColor=fff)
+![reacthookform](https://img.shields.io/badge/reacthookform-000?style=for-the-badge&logo=reacthookform&logoColor=fff)
+  
+
+
+
+
+
+
+### 𒌐 UI Library:
+
+
+  
+  ![chakraui](https://img.shields.io/badge/chakraui-000?style=for-the-badge&logo=chakraui&logoColor=fff)
+  ![mui](https://img.shields.io/badge/mui-000?style=for-the-badge&logo=mui&logoColor=fff)
+  ![antdesign](https://img.shields.io/badge/antdesign-000?style=for-the-badge&logo=antdesign&logoColor=fff)
+
+  
+     
+
+
+### 𒌐 Code Pluggins:
+
+
+
+  ![prettier](https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier&logoColor=fff)
+  ![eslint](https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=fff)
+  ![stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=fff)
+  ![babel](https://img.shields.io/badge/babel-000?style=for-the-badge&logo=babel&logoColor=fff)
+   
+
+
+### 𒌐 Tools:
+
+
+  ![figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=fff)
+  ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
+  ![sketch](https://img.shields.io/badge/sketch-000?style=for-the-badge&logo=sketch&logoColor=fff)
+  ![adobeillustrator](https://img.shields.io/badge/adobeillustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
+
 </div>
 
-### ⚒ Инструменты:
-<div>
-  <img width="36" src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="figma">
-  <img width="36" src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop">
-  <img width="36" src="https://icon.icepanel.io/Technology/svg/Sketch.svg" alt="sketch">
-</div>
 
-_____________________
-<a href="https://github.com/otsairaze" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/otsairaze?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
+
