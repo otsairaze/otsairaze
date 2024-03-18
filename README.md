@@ -17,7 +17,7 @@
 <div>
   <div>
 
-<img align='left' height='500' width='500' src="https://github.com/otsairaze/otsairaze/blob/main/assets/fxa6.gif"/>
+<img align='left' height='400' width='400' src="https://github.com/otsairaze/otsairaze/blob/main/assets/fxa6.gif"/>
 
 </div>
 
