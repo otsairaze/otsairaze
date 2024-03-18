@@ -6,30 +6,16 @@
 </div>
 
 
+
+
 <br>
 <br>
 <br>
-<br>
-
-<div>
-
-<div>
-  <h3>Bio</h3>
-</div>
-
-<div>
-  
-</div>
-
-</div>
-
-
-
-
 
 
 
 <div>
+  <div>
 
 <img align='left' height='500' width='500' src="https://github.com/otsairaze/otsairaze/blob/main/assets/fxa6.gif"/>
 
@@ -95,6 +81,52 @@
   ![adobeillustrator](https://img.shields.io/badge/adobeillustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
 
 </div>
+</div>
+
+<br>
+<br>
+<br>
+
+<div>
+  <div>
+
+<img align='right' height='500' width='500' src="https://github.com/otsairaze/otsairaze/blob/main/assets/ba235437871943bb820f0454f45ab0dd.gif"/>
+
+</div>
+
+
+<div align='left' height='800'>
+  
+### 𒉭 Name: Demis
+### 𒉭 Age: 18
+### 𒉭 Gender: Male
+### 𒉭 Development: Front-end
+### 𒉭 Hobby: PC-Game, Gym
+🐒 ♥︎ ♥︎ ♥︎ ♥︎
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 
 <div>
 
