@@ -201,4 +201,4 @@
 
 </div>
 
-
+<a href="https://github.com/otsairaze" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/otsairaze?logo=github&style=for-the-badge&color=fff&labelColor=000" /></a>
