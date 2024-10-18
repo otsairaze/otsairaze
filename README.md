@@ -21,10 +21,7 @@
 
 </div>
 
-<span align='right'>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x2yxcpx4tikcrm7cvpfggoxwhe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31x2yxcpx4tikcrm7cvpfggoxwhe&redirect=true)
-</span>
+
 
 
 <div align='right' height='800'>
