@@ -20,7 +20,6 @@
 
 
 
-
 <div align='right' height='800'>
   
 ### 𒌐 Technologiess:
