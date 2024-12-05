@@ -4,7 +4,6 @@
 <img height='200' width='100%' src="https://github.com/otsairaze/otsairaze/blob/main/assets/3Rbt.gif"/>
 
 </div>
-
 <br>
 <br>
 <br>
