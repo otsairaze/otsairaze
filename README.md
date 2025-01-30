@@ -92,7 +92,6 @@
 ### 𒉭 Age: 19
 ### 𒉭 Gender: Male
 ### 𒉭 Development: Front-end
-### 𒉭 Hobby: PC-Game, Gym
 🐒 ♥︎ ♥︎ ♥︎ ♥︎
 <br>
 <br>
