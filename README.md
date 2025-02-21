@@ -8,7 +8,6 @@
 <br>
 <div>
   <div>
-
 <img align='left' height='500' width='500' src="https://github.com/otsairaze/otsairaze/blob/main/assets/fxa6.gif"/>
 
 </div>
