@@ -11,7 +11,6 @@
 <img align='left' height='500' width='500' src="https://github.com/otsairaze/otsairaze/blob/main/assets/fxa6.gif"/>
 
 </div>
-
 <div align='right' height='800'>
   
 ### 𒌐 Technologiess:
