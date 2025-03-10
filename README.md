@@ -11,7 +11,6 @@
 
 </div>
 <div align='right' height='800'>
-  
 ### 𒌐 Technologiess:
 
 ![HTML](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=fff)
