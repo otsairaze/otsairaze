@@ -30,8 +30,15 @@
 ![reactrouter](https://img.shields.io/badge/reactrouter-000?style=for-the-badge&logo=reactrouter&logoColor=fff)
 ![reacthookform](https://img.shields.io/badge/reacthookform-000?style=for-the-badge&logo=reacthookform&logoColor=fff)
 ![NestJs](https://img.shields.io/badge/nestjs-000?style=for-the-badge&logo=nestjs&logoColor=fff)
-![WebSocket.io](https://img.shields.io/badge/websocket.io-000?style=for-the-websocketio&logo=css3&logoColor=fff)
+![WebSocket.io](https://img.shields.io/badge/websocket.io-000?style=for-the-websocket&logo=css3&logoColor=fff)
 ![prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=fff)
+![docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=fff)
+![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=fff)
+![zod](https://img.shields.io/badge/zod-000?style=for-the-badge&logo=zod&logoColor=fff)
+![expressjs](https://img.shields.io/badge/expressjs-000?style=for-the-badge&logo=expressjs&logoColor=fff)
+![nextjs](https://img.shields.io/badge/nextjs-000?style=for-the-badge&logo=nextjs&logoColor=fff)
+
+
   
 
 
