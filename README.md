@@ -36,7 +36,10 @@
 ![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![zod](https://img.shields.io/badge/zod-000?style=for-the-badge&logo=zod&logoColor=fff)
 ![expressjs](https://img.shields.io/badge/expressjs-000?style=for-the-badge&logo=expressjs&logoColor=fff)
-![nextjs](https://img.shields.io/badge/nextjs-000?style=for-the-badge&logo=nextjs&logoColor=fff)
+![zustand](https://img.shields.io/badge/zustand-000?style=for-the-badge&logo=zustand&logoColor=fff)
+![redux toolkit](https://img.shields.io/badge/rtk-000?style=for-the-badge&logo=rtk&logoColor=fff)
+
+
 
 
   
