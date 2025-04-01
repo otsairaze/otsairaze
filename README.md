@@ -58,7 +58,6 @@
 ### 𒌐 Code Pluggins:
 
 
-
   ![prettier](https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier&logoColor=fff)
   ![eslint](https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=fff)
   ![stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=fff)
