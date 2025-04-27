@@ -64,7 +64,6 @@
   ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
   ![sketch](https://img.shields.io/badge/sketch-000?style=for-the-badge&logo=sketch&logoColor=fff)
   ![adobeillustrator](https://img.shields.io/badge/adobeillustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
-
 </div>
 </div>
 
