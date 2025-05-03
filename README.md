@@ -110,7 +110,7 @@ Frontend Developer from Ukraine
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack" >
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/zustand/zustand-original.svg" width="36" height="36" alt="Mobx" />
+        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Zustand" />
       </a>
       <br>Zustand
     </td>
