@@ -114,12 +114,6 @@ Frontend Developer from Ukraine
       </a>
       <br>Zustand
     </td>
-     <td align="center" width="110" height="90">
-      <a href="#ndiuky-stack">
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
   </tr> 
   <tr>
     <td align="center" width="110" height="90"> 
@@ -164,12 +158,6 @@ Frontend Developer from Ukraine
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="Nest JS" />
       </a>
       <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#ndiuky-stack" >
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
     </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack" >
