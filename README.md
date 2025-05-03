@@ -69,12 +69,6 @@ Frontend Developer from Ukraine
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack" >
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="Gitlab" />
-      </a>
-      <br>Gitlab
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ndiuky-stack" >
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
       </a>
       <br>Docker
