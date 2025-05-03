@@ -3,8 +3,6 @@
 
 Frontend Developer from Ukraine
 
-- 🔥 &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
-- ✈ &nbsp;Let's talk more in **[Telegram](https://t.me/ndiuky_dev)**
   <br>
 
 <h2 align="left" id="ndiuky-stack">🔥 Tech stack</h2>
@@ -109,6 +107,12 @@ Frontend Developer from Ukraine
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/mobx/mobx-original.svg" width="36" height="36" alt="Mobx" />
       </a>
       <br>Mobx
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#ndiuky-stack" >
+        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/zustand/zustand-original.svg" width="36" height="36" alt="Mobx" />
+      </a>
+      <br>Zustand
     </td>
      <td align="center" width="110" height="90">
       <a href="#ndiuky-stack">
