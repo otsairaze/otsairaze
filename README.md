@@ -92,7 +92,7 @@ Frontend Developer from Ukraine
     </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack" >
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/nextjs/nextjs-original-wordmark.svg" width="36" height="36" alt="Next JS" />
+        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="36" height="36" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
