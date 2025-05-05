@@ -196,18 +196,6 @@ Frontend Developer from Ukraine
       </a>
       <br>Storybook
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ndiuky-stack">
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" />
-      </a>
-      <br>Playwright
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ndiuky-stack">
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/puppeteer/puppeteer-original.svg" width="36" height="36" alt="Puppeteer" />
-      </a>
-      <br>Puppeteer
-    </td>
      <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack" >
         <img src="https://user-images.githubusercontent.com/378279/27998811-43b9906e-6515-11e7-835a-6f596506cc46.png"  alt="Storybook" />
