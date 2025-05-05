@@ -161,13 +161,13 @@ Frontend Developer from Ukraine
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack" >
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="Nest JS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="Nest JS" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="Mongo DB" />
+        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
