@@ -159,9 +159,15 @@ Frontend Developer from Ukraine
       </a>
       <br>Nest JS
     </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#ndiuky-stack" >
+        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="Nest JS" />
+      </a>
+      <br>PostgreSQL
+    </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack" >
-        <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
@@ -202,6 +208,12 @@ Frontend Developer from Ukraine
       </a>
       <br>Puppeteer
     </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#ndiuky-stack" >
+        <img src="https://user-images.githubusercontent.com/378279/27998811-43b9906e-6515-11e7-835a-6f596506cc46.png"  alt="Storybook" />
+      </a>
+      <br>Loki
+    </td>
   </tr> 
 </table>
 
@@ -220,6 +232,12 @@ Frontend Developer from Ukraine
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/prettier/prettier-original.svg" width="36" height="36" alt="Prettier" />
       </a>
       <br>Prettier
+    </td>
+      <td align="center" width="110" height="90">
+      <a href="#ndiuky-stack">
+        <img src="https://raw.githubusercontent.com/hipstersmoothie/stylelint-formatter-github/HEAD/logo.png" width="36" height="36" alt="Stylelint" />
+      </a>
+      <br>Stylelint
     </td>
   </tr> 
 </table>
