@@ -4,7 +4,6 @@ Frontend Developer from Ukraine
   <br>
 <h2 align="left" id="ndiuky-stack">🔥 Tech stack</h2>
 > General
-
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
