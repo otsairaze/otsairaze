@@ -136,7 +136,6 @@ Frontend Developer from Ukraine
     </td>
   </tr> 
 </table>
-
 > Backend
 <table width='100%'>
   <tr>
