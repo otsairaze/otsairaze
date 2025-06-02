@@ -195,7 +195,6 @@ Frontend Developer from Ukraine
     </td>
   </tr> 
 </table>
-
 > Code quality
 <table width='100%'>
   <tr>
