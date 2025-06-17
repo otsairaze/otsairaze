@@ -170,7 +170,6 @@ Frontend Developer from Ukraine
     </td>
   </tr> 
 </table>
-
 > Testing
 <table width='100%'>
   <tr>
