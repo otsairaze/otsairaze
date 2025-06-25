@@ -1,7 +1,7 @@
 <h1 align="left">🖐 Hello there! I'm Denis</h1>
 <br>
 Frontend Developer from Ukraine
-  <br>
+<br>
 <h2 align="left" id="ndiuky-stack">🔥 Tech stack</h2>
 > General
 <table width='100%'>
