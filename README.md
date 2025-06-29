@@ -191,7 +191,7 @@ Frontend Developer from Ukraine
       </a>
       <br>Loki
     </td>
-  </tr> 
+    </tr> 
 </table>
 > Code quality
 <table width='100%'>
