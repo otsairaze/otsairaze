@@ -133,13 +133,13 @@ Frontend Developer from Ukraine
     </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack">
-        <img src="https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2025/05/MongoDB_Logo.jpg" width="36" height="36" alt="Redux" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" width="36" height="36" alt="Redux" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack">
-        <img src="https://av-webmaster.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bf19735a5dc9743eeeebd7ea3efece8ff570748f/postgres-logo.png?locale=ua" width="36" height="36" alt="Mobx" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width="36" height="36" alt="Mobx" />
       </a>
       <br>PostgreSQL
     </td>
@@ -151,7 +151,7 @@ Frontend Developer from Ukraine
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack">
-        <img src="https://miro.medium.com/v2/resize:fit:866/0*VRlI0n8V_zvnoKpB.jpg" width="36" height="36" alt="Webpack" />
+        <img src="https://plugins.jetbrains.com/files/20686/791858/icon/default.png" width="36" height="36" alt="Webpack" />
       </a>
       <br>Prisma
     </td>
