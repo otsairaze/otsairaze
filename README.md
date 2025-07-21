@@ -155,6 +155,9 @@ Frontend Developer from Ukraine
       </a>
       <br>Prisma
     </td>
+
+</table>
+
 > Testing
 
 <table width='100%'>
