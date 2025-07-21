@@ -114,6 +114,47 @@ Frontend Developer from Ukraine
   </tr> 
 </table>
 
+
+> Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#ndiuky-stack">
+        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="36" height="36" alt="React" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#ndiuky-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#ndiuky-stack">
+        <img src="https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2025/05/MongoDB_Logo.jpg" width="36" height="36" alt="Redux" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#ndiuky-stack">
+        <img src="https://av-webmaster.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bf19735a5dc9743eeeebd7ea3efece8ff570748f/postgres-logo.png?locale=ua" width="36" height="36" alt="Mobx" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#ndiuky-stack">
+        <img src="https://miro.medium.com/v2/resize:fit:1050/1*OYpEW3PMltGC2MVvJ-5QTw.png" width="36" height="36" alt="Zustand" />
+      </a>
+      <br>Mongoose
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#ndiuky-stack">
+        <img src="https://miro.medium.com/v2/resize:fit:866/0*VRlI0n8V_zvnoKpB.jpg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Prisma
+    </td>
 > Testing
 
 <table width='100%'>
