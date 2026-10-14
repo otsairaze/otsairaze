@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Denys 👋</h1> <h3 align="center">DevOps Engineer · Cloud & Infrastructure as Code</h3> <p align="center"> <a href="https://github.com/otsairaze"><img src="https://img.shields.io/badge/GitHub-otsairaze-181717?style=for-the-badge&logo=github" alt="GitHub"></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
+<h1 align="center">Hi, I'm Denys 👋</h1> <h3 align="center">DevOps Engineer · Cloud & Infrastructure as Code</h3> <p align="center"> <a href="https://github.com/otsairaze"><img src="https://img.shields.io/badge/GitHub-otsairaze-181717?style=for-the-badge&logo=github" alt="GitHub"></a> <a href="https://www.linkedin.com/in/denys-saveliev-00135b328/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="mailto:YOUR_EMAIL"></p>
 
 About me
 Building cloud infrastructure on AWS with Terraform
